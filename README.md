@@ -11,4 +11,4 @@ Part 1: Create the Earthquake Visualization
   - Create a legend that will provide context for your map data.
   - Your visualization should look something like the preceding map.
 
-Resources: Class resource code used as outline. All other resources are listed in the code itself. Xpert learning assiatnt/ chat gpt utilized for the creation of the legend. 
+Resources: Class resource code used as outline. All other resources are listed in the code itself. Xpert learning assisstant/ chat gpt utilized for the creation of the legend. 
